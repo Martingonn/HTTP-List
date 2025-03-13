@@ -5,6 +5,7 @@
 
 ## HTTP Websites
 - http://www1.bobmovies.us
+- http://zsae-karolewo.pl/
 - http://chinanetrank.com/
 - http://www.china.com.cn/
 - http://www.faqs.org/faqs/
