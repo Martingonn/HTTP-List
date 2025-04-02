@@ -1,9 +1,18 @@
 # HTTP-List
-- a list of websites that still use http :|
+- a list of websites that still use http for some reason
 - please use this list responsibly
 - the list is shrinking as we speak, so if you have some websites, please add them in
 
 ## HTTP Websites
+- http://zyd.net/
+- http://pvp.net/
+- http://hacking.com/
+- http://torent.pl/
+- http://uran.pl/
+- http://trigger.net/
+- http://kebab.com/
+- http://tymon.pl/
+- http://trump.net/
 - http://www1.bobmovies.us
 - http://zsae-karolewo.pl/
 - http://chinanetrank.com/
