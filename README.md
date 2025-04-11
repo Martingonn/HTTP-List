@@ -30,3 +30,13 @@
 - http://128.199.120.34/web/administrator/index.php
 - https://198.251.81.97/
 - http://54.208.216.92/
+- http://e.pl/
+- http://organy.pl/
+- http://www.node81.tsi.net.pl/chemia/Pu.html
+- http://jude.de/
+- http://jude.de/
+- http://www.nazis.de/
+- http://unsere.de/antifaschismus.htm
+- http://unsere.de/antisemitismus.htm
+- http://rafal.com/
+- http://www.capslock.pl//
